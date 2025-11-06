@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "patterns/result-pattern.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -180,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0cd76b5ea197e34",
+  "active": "881913ccd9fb38b3",
   "lastOpenFiles": [
     "Sem título.md",
     "patterns/result-pattern.md",
