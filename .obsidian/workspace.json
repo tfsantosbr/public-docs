@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/Result Pattern.md",
+                "file": "patterns/result-pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Result Pattern"
+              "title": "result-pattern"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns/Result Pattern.md",
+                "file": "patterns/result-pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Result Pattern"
+              "title": "Links inversos para result-pattern"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patterns/Result Pattern.md",
+                "file": "patterns/result-pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Result Pattern"
+              "title": "Links de saída para result-pattern"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patterns/Result Pattern.md",
+                "file": "patterns/result-pattern.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Result Pattern"
+              "title": "Sumário de result-pattern"
             }
           },
           {
@@ -180,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "881913ccd9fb38b3",
+  "active": "e0cd76b5ea197e34",
   "lastOpenFiles": [
     "Sem título.md",
-    "patterns/Result Pattern.md",
+    "patterns/result-pattern.md",
     "README.md",
     "patterns"
   ]
