@@ -177,14 +177,15 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "iconic:Open rulebook": false
     }
   },
   "active": "881913ccd9fb38b3",
   "lastOpenFiles": [
-    "Sem título.md",
-    "patterns/result-pattern.md",
     "README.md",
+    "patterns/result-pattern.md",
+    "Sem título.md",
     "patterns"
   ]
 }
